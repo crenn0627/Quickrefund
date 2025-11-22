@@ -1,2 +1,2 @@
 # Quickrefund
-Quick refund is used to take a refund of your wrong upi transaction 
+QuickRefund is a user-friendly online platform designed to help people get fast refunds for wrong UPI transactions. Instead of contacting banks or waiting for long support responses, users can simply enter their transaction details on the QuickRefund website and submit a refund request instantly. The system checks the information, validates the error, and processes the refund as quickly as possible. QuickRefund aims to make the refund experience simple, quick, and hassle-free for everyone who uses UPI payments.
